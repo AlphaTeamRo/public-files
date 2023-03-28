@@ -3,9 +3,8 @@ pyaudio
 SpeechRecognition==3.8.1
 espeakng
 python-vlc
-youtube_dl
+yt_dlp
 youtube_search
-git+https://github.com/Cupcakus/pafy
 gtts
 sockets
 wikipedia
